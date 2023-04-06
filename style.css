@@ -1,0 +1,47 @@
+a{
+	color: whitesmoke;
+	text-decoration: none;
+	width: 289px;
+	height: 32px;
+	left: 313px;
+	top: 26px;
+	text-align: right;
+}
+section{
+	background-color:black;
+	width: 100%;
+	}
+button{
+	background-color: black;
+	color: white;
+	width: 138px;
+	height: 48px;
+	border-color: white;
+	margin:20px;
+}
+h6{
+	color: white;
+	margin-right: 220px;
+}
+h1{
+	color: white;
+	font-size: 50px;
+	width: 400px;
+	text-align: center;
+}
+p{
+	color: white;
+	width: 300px;
+	height: 400px;
+	text-align: center;
+}
+.foto1{
+	position: absolute;
+	width: 356px;
+	height: 501px;
+	left: 928px;
+	top: 246px;
+}
+.foto2{
+	padding-top: 20px;
+}
