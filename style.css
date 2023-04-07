@@ -9,7 +9,7 @@ a{
 	padding-left: 400px;
 }
 section{
-	background-color:black;
+	background-color:#171B1B;
 	width: 100%;
 	}
 button{
@@ -88,17 +88,34 @@ h6{
 	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
 	margin: 50px;
 	padding:20px;
-	background-color: gray;
-	color: black;
+	background-color: white;
+	h
 }
 .feature2{
-	width: 390px;
-	height: 350px;
+	width: 340px;
+	height: 370px;
 	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
 	margin: 50px;
 	padding:20px;
-	background-color: green;
+	background-color: #9EAD8D;
+	margin right: 80px;
 }
 .feature{
 	display: flex;
+
+}
+.div_paragrap{
+	padding-left: 20px;
+	color:gray;
+}
+.section3_title{
+	color: white;
+	font-size: 56px;
+	width: 1270px;
+
+}
+.section3_h5{
+	font-size: 16px;
+	color: white;
+
 }
