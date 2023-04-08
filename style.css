@@ -117,5 +117,18 @@ h6{
 .section3_h5{
 	font-size: 16px;
 	color: white;
-
 }
+.section_4{
+	font-size: 56px;
+	color: black;
+	Width: 519px; 
+	Height :128px;
+	Top :35px;
+	Left :35px;
+}
+.section4paragrap{
+	color: black;
+	font-size: 16px;
+	bottom: 20px;
+}
+
