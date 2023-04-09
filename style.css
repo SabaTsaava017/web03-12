@@ -123,12 +123,38 @@ h6{
 	color: black;
 	Width: 519px; 
 	Height :128px;
-	Top :35px;
-	Left :35px;
+	Top: 35px;
+	Left: 35px;
 }
 .section4paragrap{
 	color: black;
 	font-size: 16px;
 	bottom: 20px;
 }
+.section4_divtitle{
+	font-size: 16px;
+	color: white;
+	padding-left: 20px;
+	padding-top: 150px;
+}
+.section4_divheader{
+	font-size: 40px;
+	color: white;
+	padding-right: 420px;
+}
+
+.feature9{
+	width: 770px;
+	height: 448px;
+	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
+	margin: 50px;
+	padding:20px;
+	background-color: #9B9B9B;
+
+}
+.paragrap_style4{
+	color: #333333;
+	padding-left: 20px;
+}
+
 
